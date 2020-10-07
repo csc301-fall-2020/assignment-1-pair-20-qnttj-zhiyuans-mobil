@@ -19,6 +19,6 @@
         <activity android:name=".Activity.CheckoutActivity"></activity>
         <activity android:name=".Activity.deleteItemActivity"></activity>
         <activity android:name=".Activity.PayActivity"></activity>
-        <activity android:name=".Activity.MenuActivity"></activity>>
+        <activity android:name=".Activity.MenuActivity"></activity>
     </application>
 </manifest>
