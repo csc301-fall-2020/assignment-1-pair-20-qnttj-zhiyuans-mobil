@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "549447820442",
+    "firebase_url": "https://checkoutmachine-711eb.firebaseio.com",
+    "project_id": "checkoutmachine-711eb",
+    "storage_bucket": "checkoutmachine-711eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549447820442:android:2b0396b5a262891e726b23",
+        "android_client_info": {
+          "package_name": "com.example.checkoutmachine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549447820442-4anvremnn6nu7d99f3tlgrhd1565hae1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqrcRIp8Gs-F-gzwuBC3JUNblQw1UzrSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549447820442-4anvremnn6nu7d99f3tlgrhd1565hae1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

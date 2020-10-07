@@ -1,0 +1,9 @@
+100000 CeleryStalks 2.99
+100001 RoyalGalaApple 1.15
+100002 RedGrapes 4.35
+100003 Avocado 1.79
+100004 Banana 1.45
+100005 GreenGrapes 4.48
+100006 RaspberryPint 5.99
+100007 SaltedButter 4.49
+100008 SweetPotato 2.77

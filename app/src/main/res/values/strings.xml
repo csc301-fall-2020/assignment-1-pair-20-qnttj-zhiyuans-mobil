@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Checkout Machine</string>
+    <string name="Start">Start</string>
+    <string name="Change">ChangeItem</string>
+    <string name="AddtoStore">Add/Update</string>>
+    <string name="delete">x</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="Name">Name</string>
+    <string name="BarCode">BarCode</string>>
+    <string name="Price">Price</string>>
+    <string name="Confirm">Confirm</string>>
+    <string name="Back">Back</string>>
+    <string name="Total">Total</string>>
+    <string name="deleteButton">Delete</string>
+    <string name="updateButton">Update</string>
+    <string name="welcome">Welcome</string>
+    <string name="store">Store</string>
+    <string name="android">Android</string>
+    <string name="minion">Minion</string>
+    <string name="tax">Tax(%)</string>
+    <string name="discount">Discount(%)</string>>
+    <string name="menu">Menu</string>
+    <string name="DeleteAll">DeleteAll</string>
+</resources>
