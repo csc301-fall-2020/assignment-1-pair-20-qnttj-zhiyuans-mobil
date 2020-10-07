@@ -11,6 +11,12 @@ To open the mobile app.
 		Choice for Android backend development
 		
 		
+For the repository with GitHub Action for the CI/CD
+
+	Please goto https://github.com/ZhiYuanS/assignment-1-pair-20-qnttj-zhiyuans-mobil.  
+	I have invited all the TAs 
+	
+
 Android mobile report
 
 
