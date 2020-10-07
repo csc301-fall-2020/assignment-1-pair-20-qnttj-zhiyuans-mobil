@@ -37,13 +37,6 @@ Community support and online recourses
 As the oldest programming language among these three, Java has the biggest community and most developers. Such resource enables Java developer to get help from others quicker and learn from online resources easier. Meanwhile, Kotlin and React Native released under 10 years, which have a relatively smaller community and the some help may be limited.
 
 
-a
-
-
-
-
-
-
 
 Choices for Android frontend development
 XML
